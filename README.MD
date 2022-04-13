@@ -1,6 +1,6 @@
 <h1 align="center">Ethereum Gas Checker </h1> 
 <p align="center">
-  <img src="C:\Users\najja\Desktop\PycharmProjects\crypto\Ethereum Gas\ETHGasStation.PNG" width="200" height="200" />
+  <img src="https://github.com/Osama-NJ/Ethereum-Gas-Checker/blob/main/Photo/ETHGasStation.png" width="200" height="200" />
 </p>
 
 ### Requirements :
