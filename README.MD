@@ -6,7 +6,7 @@
 ### Requirements :
 * 🐍Python  3.10
 
-<strong>Execution:</strong>
+<strong>Execution :</strong>
 * Install these modules 
   > pip install requests </br>
   > pip install json </br>
