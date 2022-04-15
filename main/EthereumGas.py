@@ -14,8 +14,8 @@ def ethereum_gas():
     average = jsonpath.jsonpath(gas, "average")   # Fetching average eth gas
     fast = jsonpath.jsonpath(gas, "fast")  # Fetching fast eth gas
     fastest = jsonpath.jsonpath(gas, "fastest")  # Fetching fastest eth gas
-    print("Safe low Ethereum gas fees speed : " + str(int(safe_low[0])/10) + " GWEI")
-    print("Average Ethereum gas fees speed : " + str(int(average[0])/10) + " GWEI")
+    print("Safe low Ethereum gas fees speed : " + str(safe_low[0]/10) + " GWEI")
+    print("Average Ethereum gas fees speed : " + str(average[0]/10) + " GWEI")
     print("Fast Ethereum gas fees speed : " + str(fast[0]/10) + " GWEI")
     print("Fastest Ethereum gas fees speed : " + str(fastest[0]/10) + " GWEI")
 
